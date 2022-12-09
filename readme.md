@@ -1,6 +1,6 @@
 #  Hello!
 
-    My name is Cezary, I am 28 years old. Some time ago decided to make a career change. I am currently in the process of looking for a first job.
+    My name is Cezary, I am 28 years old. I have spent the last few years working as a Supervisor in the catering industry in Dublin. Some time ago decided to make a career change. I am currently in the process of looking for a first job in Poland.
 
 
 ## Overview
@@ -17,5 +17,5 @@
 
 #### Other Skills
 
-... Polish  - Native
-... English - B2
+1. Polish  - Native
+2. English - B2
